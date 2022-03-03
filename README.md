@@ -1,1 +1,1 @@
-<img src="https://www.canva.com/design/DAE55yAKzY8/3TXle4ShPdsKMyc4meoP6Q/view?utm_content=DAE55yAKzY8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" alt="my banner">
+<img src="https://raw.githubusercontent.com/vrolnes/vrolnes/main/Pembe%20Mavi%20ve%20Siyah%20Gradyan%20Twitch%20Banner.png" alt="my banner">

@@ -20,3 +20,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 [![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrolnes)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://app.daily.dev/vrolnes"><img src="https://github.com/vrolnes/vrolnes/blob/main/devcard.svg" width="200" alt="Francesco's Dev Card"/></a>
